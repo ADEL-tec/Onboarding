@@ -8,10 +8,11 @@ This Flutter project demonstrates the implementation of an onboarding experience
 ## Screenshots
 
 Here are a few screenshots from the app:
-
-![Onboarding Page 1](screenshots/onboarding_page1.png)
-![Onboarding Page 2](screenshots/onboarding_page2.png)
-![Onboarding Page 3](screenshots/onboarding_page3.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/1.png" alt="Onboarding Page 1" width="300">
+  <img src="screenshots/2.png" alt="Onboarding Page 2" width="300">
+  <img src="screenshots/3.png" alt="Onboarding Page 3" width="300">
+</div>
 
 ## Features
 
